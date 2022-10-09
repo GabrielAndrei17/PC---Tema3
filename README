@@ -1,0 +1,32 @@
+Andrei Gabriel
+313CB
+
+                Tema 4 – Pregatire Examen
+Task1:
+M-am folosit de observatia ca elementul general a matricei rotite
+este [n-j][i+1] si am format un vectorul de caractere.
+
+Task2:
+La acest task, am format suma cu ajutorul functiei strtok, apoi 
+programul pune cifrele sumei intr-un vector de caractere.
+
+Task3:
+Daca n este impar, se interschimba a[i] si a[n-i+1], daca nu, 
+se interschimba a[i] si a[i+1]. La final se formeaza noul vector 
+de caractere.
+
+Task4:
+Se aloca conform enuntului.
+
+Task5:
+Se citesc jucatorii si jocul conform enuntului.
+
+Task6:
+Se afisaza jucatorii si jocul conform enuntului.
+
+Task7:
+In primul rand, se afla distanta minima dintre impostor si ceilalti jucatori,
+apoi se verifica daca corespunde cu regulamentul jocului si se afisaza rezultatul 
+printr-un vector de caractere.
+
+Task8:
